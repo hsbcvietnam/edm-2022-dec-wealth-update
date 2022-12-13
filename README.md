@@ -1,1 +1,8 @@
-# edm-2022-dec-wealth-update
+# hsbc-template-edm
+
+Link view
+https://mass-template-edm.herokuapp.com/source/index_vn.html
+https://mass-template-edm.herokuapp.com/source/index_en.html
+
+Link download
+https://mass-template-edm.herokuapp.com/download.php
